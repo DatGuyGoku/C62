@@ -1,0 +1,24 @@
+body {
+text-align: center;
+}
+#app{
+background-color: rgb(0, 252, 210);
+}
+#game{
+    background-color: rgb(255, 102, 0);
+}
+#chatbot{
+    background-color: darkorange;
+}
+#myCarousel img{
+height: 300px;
+margin-top: 35px;
+}
+#myCarousel{
+background-color: steelblue;
+}
+.carousel-inner p{
+font-size: 25px;
+margin-top: 15px;
+color: aliceblue;
+}
